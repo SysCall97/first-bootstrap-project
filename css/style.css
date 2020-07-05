@@ -92,6 +92,16 @@ html, body{
   margin: 1rem;
 }
 
+#fixed{
+   background-image: url('../img/mac.png') !important;
+   height: auto;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+   background-size: cover;
+}
+
+
 .fun{
   width: 100%;
   margin-bottom: 2rem;
